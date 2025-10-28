@@ -18,6 +18,7 @@ dependencies:
   flutter_secure_storage: ^9.0.0
   url_launcher: ^6.2.1
   image_picker: ^1.0.4
+  thingsboard_client: ^1.5.0
 
 dev_dependencies:
   flutter_test:
